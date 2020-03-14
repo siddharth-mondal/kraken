@@ -6,13 +6,13 @@ function Navbar() {
     <>
       <nav className="nav">
         <div className="nav-left">
-          <a href="javascript:;" className="logo">
+          <a href="home" className="logo">
             Sportasium
           </a>
         </div>
         <div className="nav-center"></div>
         <div className="nav-right">
-          <a href="javascript:;">Login / Sign Up</a>
+          <a href="login-signup">Login / Sign Up</a>
         </div>
       </nav>
     </>

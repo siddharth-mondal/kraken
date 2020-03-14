@@ -3,7 +3,6 @@ import './App.css';
 import Navbar from './Navbar/Navbar';
 import Footer from './Footer/Footer';
 import Body from './Body/Body';
-import Videotile from './Videotile/Videotile';
 
 function App() {
   return (
