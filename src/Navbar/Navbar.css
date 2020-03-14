@@ -1,0 +1,12 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav {
+  background-color: #053c74;
+  color: #f1f1f1;
+}
+
+.logo {
+  font-size: 2rem;
+}
