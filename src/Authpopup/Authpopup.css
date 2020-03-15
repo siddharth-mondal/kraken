@@ -1,0 +1,25 @@
+.popup-container {
+  width: 65%;
+  background-color: darkgrey;
+  padding: 20px;
+}
+
+.seperator {
+  width: 1px;
+  height: inherit;
+  background-color: black;
+  border-color: black;
+  margin-right: 20px;
+}
+
+input {
+  border: none;
+  display: block;
+  padding: 13px;
+  outline: none;
+  margin: 10px;
+}
+
+input:focus {
+  border: 2px solid blue;
+}

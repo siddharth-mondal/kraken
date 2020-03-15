@@ -1,6 +1,8 @@
-.row {
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
   height: 150px;
-  padding: 20px;
+  padding: 20px 40px;
   background-color: #053c74;
   color: #f1f1f1;
 }
