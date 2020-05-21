@@ -87,5 +87,5 @@ export class AppComponent implements OnInit {
 }
 ```
 
-Open [this link] (https://stackoverflow.com/questions/44634992/debounce-hostlistener-event) for decorator stuff
+Open [this link](https://stackoverflow.com/questions/44634992/debounce-hostlistener-event) for decorator stuff
 
