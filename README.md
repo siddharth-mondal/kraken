@@ -6,6 +6,7 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## TS Code is here
+```typescript
 import {
   Component,
   OnInit,
@@ -61,8 +62,11 @@ export class AppComponent implements OnInit {
       this.addData(this.counter, this.counter + this.rowsToBeFetched);
     }
   }
+  ```
   
   ## Decorator
+  
+  ```typescript
   export function debounce(delay: number = 250): MethodDecorator {
   return function (
     target: any,
@@ -81,6 +85,7 @@ export class AppComponent implements OnInit {
     return descriptor;
   };
 }
+```
 
 Open [this link] (https://stackoverflow.com/questions/44634992/debounce-hostlistener-event) for decorator stuff
 
